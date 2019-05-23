@@ -1,3 +1,5 @@
 #.Example Repository 
 
-This is an sample repo, hello World!
+This is an sample repository, HELLO WORLD!
+
+Changes
